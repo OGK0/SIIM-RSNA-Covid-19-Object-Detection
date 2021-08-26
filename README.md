@@ -3,6 +3,7 @@ Capstone Project: SIIM-RSNA-Covid-19 Object Detection (Computer Vision, Object D
 
 This repo contains my work for the SIIM-RSNA-Covid-19 Object Detection challenge. The goal of this was to use deep learning to classify lung X-ray scans (DICOM images) into 1 of 3 classes and specify bounding boxes around the areas of infections for Covid-19 patients. We tested the YOLO v5 and Faster-RCNN models for this project, with monitoring through Weights and Biases.
 
+
 ![Bounding_Box_Example_2](https://user-images.githubusercontent.com/33669038/131038758-4be7c2b6-8d50-49b0-a746-22dc11544be8.png)
 
 Example Interpretability (using YOLO v5):
