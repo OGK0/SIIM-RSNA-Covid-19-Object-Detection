@@ -7,7 +7,7 @@ This repo contains my work for the SIIM-RSNA-Covid-19 Object Detection challenge
 
 Interpretability:
 
-![Stage0_Features](https://user-images.githubusercontent.com/33669038/131038812-c48288f1-227a-437c-8841-4ae07ba83ac7.png)
+![stage0_Focus_features](https://user-images.githubusercontent.com/33669038/131038992-f8821ac3-505f-4dec-b156-738493ff8c5f.png)
 
 Performance:
 
