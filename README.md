@@ -5,7 +5,7 @@ This repo contains my work for the SIIM-RSNA-Covid-19 Object Detection challenge
 
 ![Bounding_Box_Example_2](https://user-images.githubusercontent.com/33669038/131038758-4be7c2b6-8d50-49b0-a746-22dc11544be8.png)
 
-Interpretability:
+Example Interpretability (using YOLO v5):
 
 ![stage0_Focus_features](https://user-images.githubusercontent.com/33669038/131038992-f8821ac3-505f-4dec-b156-738493ff8c5f.png)
 
